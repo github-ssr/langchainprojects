@@ -8,4 +8,5 @@ This demo project showcases the integration of Langchain and Azure Open AI to cr
 | Folder Name | Project Description |
 |-------------|---------------------|
 | parse_warning    | This is demo application showcases the utilization of GPT-4o and langchain to parse layout and extract text from PDF document. |
+| multimodal_example | This is sample code to showcase passing image based few shot example to GPT-4o model. |
 
